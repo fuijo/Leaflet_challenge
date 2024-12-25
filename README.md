@@ -1,4 +1,4 @@
-# leaflet_challenge
+# Leaflet_challenge
 # Instructions
 The instructions for this activity are broken into two parts:
 
