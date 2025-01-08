@@ -1,10 +1,20 @@
 # Leaflet_challenge
+This Leaflet project offers an effective and interactive way to visualize seismic activity and tectonic plate movements. It combines real-time earthquake data with static tectonic plate boundaries to provide users with insights into the dynamic nature of our planet’s crust. The integration of dynamic map features like interactive markers, layer controls, and a color-coded legend makes the map both informative and engaging, while the use of external data sources ensures that the project is based on accurate and up-to-date information.
+
+Overall, the project is a successful example of using web-based mapping tools and geospatial data to communicate complex scientific information in an accessible and user-friendly manner.
+
 # Instructions
 The instructions for this activity are broken into two parts:
 
 Part 1: Create the Earthquake Visualization
 
+![image](https://github.com/user-attachments/assets/c90a2cc6-1367-405d-8f04-f5b3f32de2c5)
+
+
 Part 2: Gather and Plot More Data (Optional with no extra points earning)
+
+![image](https://github.com/user-attachments/assets/c173ad9f-1be7-484b-a3ab-e9c44047d180)
+
 
 # Part 1: Create the Earthquake Visualization
 2-BasicMap
